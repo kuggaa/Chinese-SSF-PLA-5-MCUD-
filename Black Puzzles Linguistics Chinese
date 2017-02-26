@@ -1,0 +1,116 @@
+Language Files
+
+Abstract-LIWC Traditional Chinese Simplified Chinese microblog text analysis
+The words that people use could reveal their emotional states, intentions, thinking styles, individual differences, etc. LIWC (Linguistic Inquiry and Word Count) has been widely used for psychological text analysis, and its dictionary is the core. The Traditional Chinese version of LIWC dictionary has been released, which is a translation of LIWC English dictionary. However, Simplified Chinese which is the world’s most widely used language has subtle differences with Traditional Chinese. Furthermore, both English LIWC dictionary and Traditional Chinese version dictionary were both developed for relatively formal text. Microblog has become more and more popular in China nowadays. Original LIWC dictionaries take less consideration on microblog popular words, which makes it less applicable for text analysis on microblog. In this study, a Simplified Chinese LIWC dictionary is established according to LIWC categories. After translating Traditional Chinese dictionary into Simplified Chinese, five thousand words most frequently used in microblog are added into the dictionary. Four graduate students of psychology rated whether each word belonged in a category. The reliability and validity of Simplified Chinese LIWC dictionary were tested by these four judges. This new dictionary could contribute to all the text analysis on microblog in future.
+ENGLISH/AMERICAN
+LIWC Dictionary (Linguistic Inquiry and Word Count)
+
+The LIWC dictionary used in this demonstration is composed of 5,690 words and word stems. Each word or word stem defines one or more word categories. For example, the word 'cried' is part of four word categories: sadness, negative emotion, overall affect, and a past tense verb. Hence, if it is found in the target text, each of these four category scale scores will be incremented. As in this example, many of the LIWC categories are arranged hierarchically. All anger words, by definition, will be categorized as negative emotion and overall emotion words.
+
+Each of the 69 preset LIWC categories used in this demo is composed of a list of dictionary words that define that scale. The table below provides a comprehensive list of these LIWC categories with sample scale words.
+
+LIWC Dimensions and Sample Words
+
+DIMENSION
+
+EXAMPLES
+
+I. STANDARD LINGUISTIC DIMENSIONS
+
+Pronouns	
+I, them, itself
+
+Articles
+a, an, the
+
+Past tense	
+walked, were, had
+
+Present tense
+Is, does, hear
+
+Future tense	
+will, gonna
+
+Prepositions
+with, above
+
+Negations
+no, never, not
+
+Numbers
+one, thirty, million
+
+Swear words	*****
+
+II. PSYCHOLOGICAL PROCESSES
+
+# Social Processes
+talk, us, friend
+Friends	pal, buddy, coworker
+Family	mom, brother, cousin
+Humans	boy, woman, group
+
+# Affective Processes	
+happy, ugly, bitter
+Positive Emotions	happy, pretty, good
+Negative Emotions	hate, worthless, enemy
+Anxiety	nervous, afraid, tense
+Anger	hate, kill, pissed
+Sadness	grief, cry, sad
+
+# Cognitive Processes
+cause, know, ought
+Insight	think, know, consider
+Causation	because, effect, hence
+Discrepancy	should, would, could
+Tentative	maybe, perhaps, guess
+Certainty	always, never
+Inhibition	block, constrain
+Inclusive	with, and, include
+Exclusive	but, except, without
+
+# Perceptual Processes	
+see, touch, listen
+Seeing	view, saw, look
+Hearing	heard, listen, sound
+Feeling	touch, hold, felt
+
+# Biological Processes	
+eat, blood, pain
+Body	ache, heart, cough
+Sexuality	horny, love, incest
+
+# Relativity	
+area, bend, exit, stop
+Motion	walk, move, go
+Space	Down, in, thin
+Time	hour, day, oclock
+
+III. PERSONAL CONCERNS
+
+Work	work, class, boss
+Achievement	try, goal, win
+Leisure	house, TV, music
+Home	house, kitchen, lawn
+Money	audit, cash, owe
+Religion	altar, church, mosque
+Death	bury, coffin, kill
+ IV. SPOKEN CATEGORIES
+
+Assent	agree, OK, yes
+Nonfluencies	uh, rr*
+Fillers	blah, you know, I mean
+Selected References
+
+Pennebaker, J. W. (1997). Writing about emotional experiences as a therapeutic process. Psychological Science, 8, 162-166.
+
+Pennebaker, J.W., & Francis, M.E. (1996). Cognitive, emotional, and language processes in disclosure. Cognition and Emotion, 10, 601-626.
+
+Pennebaker, J.W., & King, L.A. (1999). Linguistic styles: Language use as an individual difference. Journal of Personality and Social Psychology, 77, 1296-1312.
+
+Pennebaker, J. W., Mayne, T., & Francis, M. E. (1997). Linguistic predictors of adaptive bereavement. Journal of Personality and Social Psychology, 72, 863-871.
+
+Pennebaker, J.W. (2002). What our words can say about us: Toward a broader language psychology. Psychological Science Agenda, 15, 8-9.
+
+Newman, M.L., Pennebaker, J.W., Berry, D.S., & Richards, J.M. (2003). Lying words: Predicting deception from linguistic styles. Personality and social psychology bulletin, 29, 5, 665-675.
