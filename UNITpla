@@ -1,0 +1,25 @@
+2017年3月1日 星期三	首页期刊简介编委会投稿启事审稿流程读者订阅广告服务联系我们
+引用本文：	
+   [点击复制]
+   [点击复制]
+【打印本页】 【在线阅读全文】【下载PDF全文】 【查看/发表评论】【下载PDF阅读器】【关闭】
+←前一篇|后一篇→ 过刊浏览    高级检索	
+本文已被：浏览 362次   下载 412次	 
+小波变换在S模式二次雷达信号分析处理中的应用
+李冰,高勇
+0字体:加大+|默认|缩小-
+(四川大学 电子信息学院，成都 610065;2.解放军61398部队，上海 200137)
+摘要:
+为提高二次雷达（Secondary Surveillance Radar，SSR）信号分析处理能力，针 对傅里叶变换在时频域分析的局限性，利用小波信号奇异性检测特点，通过对S模式询 问、应答信号进行小波分解，计算第一层高频系数，得到信号脉冲持续时间，实现了信号报 头检测，并比较高频系数模极大值，提取出信号调制信息，实现了基于小波变换的二进制差 分相移键控（DPSK）和二进制振幅键控（ASK）解调，验证了小波变换技术分析处理二次雷 达信号的可行性。
+关键词:  敌我识别  二次雷达  S模式  小波变换  信号处理
+DOI：
+基金项目:
+Application of Wavelet Transform in Mode S SSR Signal Analysis and Processing
+LI Bing,GAO Yong
+(College of Electronic and Information Engineering，Sichuan University，Chengdu 610065，China;Unit 61398 of PLA, Shanghai 200137, China)
+Abstract:
+To enhance the signal analysis and processing ability of secondary surve illance radar (SSR), in allusion to the limitation of Fourier transform in t ime-frequency domain analysis, based on the characteristics of wavelet signal si ngularity detection, through wavelet decomposition of S mode inquiry and respons e signal and then obtaining pulse duration with the 1st wavelet high frequ ency coefficient, the signal preamble detection is realized. By comparin g wavelet high frequency coefficient module maximum value and abstracting signa l modulation information,demodulation with wavelet transformation in binary differential phase shift keying ( DPSK) and binary amp litude shift keying (ASK) is also realized, thus validating the feasibility of a nalysing and proce ssing the SSR signal by wavelet transform.
+Key words:  identification friend or foe(IFF)  secondary surveillance radar(SSR)  mode S  wav elet transform  signal processing
+版权所有：《电讯技术》编辑部 
+地址：四川省成都市金牛区营康西路85号  邮编：610036  蜀ICP备12010206号-3
+安全联盟站长平台
